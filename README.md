@@ -59,7 +59,6 @@ Algumas das tecnologias e ferramentas com as quais eu gosto de trabalhar:
 
 Estou sempre aberto a novas conexões e discussões interessantes. Sinta-se à vontade para:
 
-  * **Seguir-me no GitHub**: [AndersonAraujoX](https://github.com/AndersonAraujoX)
   * **Conectar no LinkedIn**: [Anderson Araujo de Oliveira](https://www.linkedin.com/in/anderson-araujo-de-oliveira-353831199/) 
   * **Mandar um e-mail**: [andersonaraujodeo1999@gmail.com](andersonaraujodeo1999@gmail.com)
 
