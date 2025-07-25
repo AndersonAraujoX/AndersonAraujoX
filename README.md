@@ -1,4 +1,4 @@
-## Olá, eu sou Anderson Araújo\! 👋
+## Olá, eu sou Anderson Araujo\! 👋
 
 [](https://github.com/AndersonAraujoX)
 [](https://github.com/AndersonAraujoX)
@@ -69,3 +69,5 @@ Estou sempre aberto a novas conexões e discussões interessantes. Sinta-se à v
 Obrigado por visitar meu perfil\! Se tiver alguma dúvida, sugestão ou apenas quiser conversar sobre tecnologia, fique à vontade para entrar em contato.
 
 -----
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
