@@ -64,10 +64,4 @@ Estou sempre aberto a novas conexões e discussões interessantes. Sinta-se à v
 
 -----
 
-### Diga Olá\! 👋
-
-Obrigado por visitar meu perfil\! Se tiver alguma dúvida, sugestão ou apenas quiser conversar sobre tecnologia, fique à vontade para entrar em contato.
-
------
-
 ![snake gif](https://github.com/AndersonAraujoX/AndersonAraujoX/blob/output/github-snake-dark.svg)
