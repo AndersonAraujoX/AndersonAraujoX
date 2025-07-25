@@ -70,4 +70,4 @@ Obrigado por visitar meu perfil\! Se tiver alguma dúvida, sugestão ou apenas q
 
 -----
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/AndersonAraujoX/AndersonAraujoX/blob/output/github-snake-dark.svg)
